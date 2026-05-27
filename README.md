@@ -22,7 +22,8 @@ The animation system in this project allows:
 Defining object states at specific times
 Interpolating motion smoothly
 Animating vector-based shapes efficiently
-Technologies Used
+
+## Technologies Used
 Programming Language:  Python 
 Graphics Library: OpenGL 
 Vector Mathematics
