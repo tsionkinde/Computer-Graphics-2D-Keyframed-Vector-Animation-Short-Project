@@ -1,5 +1,4 @@
 # 🎬 Buhe Holiday: Real-Time 2D Keyframed Vector Animation
-
 A real-time **2D vector animation** inspired by the Ethiopian cultural celebration of **Buhe**, developed entirely with **Python**, **PyGame**, and **PyOpenGL**. Every scene, character, and animation is generated programmatically using geometric primitives—without relying on external images, sprites, videos, or textures.
 
 This project demonstrates fundamental computer graphics concepts such as **hierarchical modeling**, **matrix transformations**, **keyframe animation**, **interpolation techniques**, and **state-based animation management**.
@@ -87,7 +86,6 @@ Shoulder
                  └── Hand
                         └── Stick / Coffee Pot
 ```
-
 Every limb is transformed independently using:
 
 * `glPushMatrix()`
@@ -178,7 +176,6 @@ Buhe-Holiday-Animation/
 │
 └── README.md
 ```
-
 ---
 
 # 🎮 Interactive Controls
@@ -219,7 +216,6 @@ Run the animation using:
 ```bash
 python main.py
 ```
-
 ---
 
 # 📚 Computer Graphics Concepts Demonstrated
