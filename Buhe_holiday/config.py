@@ -75,6 +75,7 @@ NB_COORDS = [
 ]
 
 # Tracked Dynamic States
+# and changing values
 woman_cur_x = WOMAN_BASE_X
 e4_woman_y = WOMAN_HIP_SIT
 rightArmAngle = -15.0
