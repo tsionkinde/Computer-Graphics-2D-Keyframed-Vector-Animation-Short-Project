@@ -373,7 +373,7 @@ def main():
         fs = pygame.font.Font(None, 17); fu = pygame.font.Font(None, 19)
 
     clock = pygame.time.Clock()
-    playing = False
+    playing = True
     ct = 0.0
     last_ts = None
 
