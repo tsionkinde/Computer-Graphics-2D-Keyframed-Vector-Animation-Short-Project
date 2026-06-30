@@ -21,6 +21,7 @@ def draw_sun(x, y, t):
         a = t * 0.15 + i * math.pi / 6
         glPushMatrix(); glTranslatef(x, y, 0); glRotatef(math.degrees(a), 0, 0, 1)
         gl_tri(0, 35, -7, 55, 7, 55); glPopMatrix()
+      # creating loops 
 
 def draw_rainbow(cx, cy):
     for i, c in enumerate(config.RAINBOW):
