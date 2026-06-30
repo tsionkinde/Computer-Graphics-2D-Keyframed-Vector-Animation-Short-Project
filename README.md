@@ -4,6 +4,15 @@ A real-time **2D vector animation** inspired by the Ethiopian cultural celebrati
 This project demonstrates fundamental computer graphics concepts such as **hierarchical modeling**, **matrix transformations**, **keyframe animation**, **interpolation techniques**, and **state-based animation management**.
 
 ---
+## Team Members
+
+| No | Member Name | Student ID |
+|:--:|-------------|------------|
+| 1 | Kidist Meseret | UGR/9079/16 |
+| 2 | Tsion Kinde | UGR/2656/16 |
+| 3 | Yadeni Getu | UGR/7202/16 |
+| 4 | Sosina Zemichael | UGR/4010/16 |
+| 5 | Elizabeth Abay | UGR/3071/16 |
 
 # 📖 Project Overview
 
